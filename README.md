@@ -15,7 +15,7 @@ This project implements a lightweight conversational chatbot designed to assist 
 
     ```bash
     git clone [https://github.com/Sai-Hrithik-Reddy-Movva/MSAI-631-B02-llm-chatbot.git]
-    cd llm-chatbot
+    cd chatbot
     ```
 
 2.  **Create a virtual environment (recommended):**
